@@ -9,5 +9,5 @@ How I cloned this: I pressed clone repository selected this and then clicked con
 ## My Interests
 - I like to play video games.
 ## Websites I Recommend
-- [Google] (https://www.google.com) - The foundation of the internet.
-- [cookie clicker] (https://orteil.dashnet.org/cookieclicker/) - It's nice to have something going on in the background while you're working on things.
+- [Google](https://www.google.com) - The foundation of the internet.
+- [cookie clicker](https://orteil.dashnet.org/cookieclicker/) - It's nice to have something going on in the background while you're working on things.
